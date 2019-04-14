@@ -1,5 +1,5 @@
-# Onsen tabbar
+# Onsen splitter (side panel)
 
-To demonstrate Onsen tabbar
+To demonstrate Onsen splitter
 
 
